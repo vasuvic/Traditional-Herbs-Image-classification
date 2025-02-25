@@ -141,7 +141,6 @@ plotly==5.19.0
 plotly-express==0.4.1
 posthog==3.13.0
 proto-plus==1.26.0
-protobuf==3.19.6
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pycparser==2.22
